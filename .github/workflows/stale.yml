@@ -25,5 +25,5 @@ jobs:
         stale-issue-message: 'Atinav says this issue is stale after 1 day'
         stale-issue-label: 'no-issue-activity'
         days-before-close: '2'
-        close-issue-message: 'Atinav says close issue after 2 days'
+        close-issue-message: 'Atinav says close issue after 2 days.'
 
